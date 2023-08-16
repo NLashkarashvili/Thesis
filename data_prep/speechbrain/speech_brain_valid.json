@@ -1,0 +1,2787 @@
+{
+  "Ses01M_script01_2_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M000.wav",
+    "length": 4.500625,
+    "emo": "neu"
+  },
+  "Ses01M_script01_2_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M001.wav",
+    "length": 7.17,
+    "emo": "neu"
+  },
+  "Ses01M_script01_2_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M007.wav",
+    "length": 2.5199375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_2_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M015.wav",
+    "length": 4.5824375,
+    "emo": "ang"
+  },
+  "Ses01M_script01_2_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M016.wav",
+    "length": 5.23,
+    "emo": "ang"
+  },
+  "Ses01M_script01_2_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_2/Ses01M_script01_2_M017.wav",
+    "length": 4.05,
+    "emo": "ang"
+  },
+  "Ses01F_impro03_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M000.wav",
+    "length": 2.2199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M001.wav",
+    "length": 2.0599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M003.wav",
+    "length": 3.9775,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M006.wav",
+    "length": 2.09,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M007.wav",
+    "length": 2.7524375,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M008.wav",
+    "length": 1.3199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M009.wav",
+    "length": 4.91,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M011.wav",
+    "length": 3.93,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M013.wav",
+    "length": 2.7975,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M014.wav",
+    "length": 3.5874375,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M015.wav",
+    "length": 2.18,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M016.wav",
+    "length": 1.805,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M019.wav",
+    "length": 4.79,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M020.wav",
+    "length": 4.62,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M021.wav",
+    "length": 2.68,
+    "emo": "neu"
+  },
+  "Ses01F_impro03_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M022.wav",
+    "length": 1.66,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M023.wav",
+    "length": 3.6899375,
+    "emo": "hap"
+  },
+  "Ses01F_impro03_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro03/Ses01F_impro03_M024.wav",
+    "length": 2.2199375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M000.wav",
+    "length": 3.0974375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M001.wav",
+    "length": 2.4399375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M002.wav",
+    "length": 2.423125,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M006.wav",
+    "length": 6.8899375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M016.wav",
+    "length": 15.635,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M017.wav",
+    "length": 5.4925,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M019.wav",
+    "length": 10.555,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M021.wav",
+    "length": 5.08725,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M022.wav",
+    "length": 5.3623125,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M023.wav",
+    "length": 2.9599375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M024.wav",
+    "length": 1.8299375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M026.wav",
+    "length": 3.990375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M033.wav",
+    "length": 3.0249375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M037.wav",
+    "length": 2.892,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M038.wav",
+    "length": 3.624375,
+    "emo": "sad"
+  },
+  "Ses01F_script02_2_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M040.wav",
+    "length": 6.7799375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M042": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M042.wav",
+    "length": 4.2586875,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M043.wav",
+    "length": 1.4023125,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M044": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M044.wav",
+    "length": 3.1759375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M046": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M046.wav",
+    "length": 1.8901875,
+    "emo": "hap"
+  },
+  "Ses01F_script02_2_M047": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M047.wav",
+    "length": 4.2345625,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M048": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M048.wav",
+    "length": 7.0,
+    "emo": "neu"
+  },
+  "Ses01F_script02_2_M049": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M049.wav",
+    "length": 2.4855,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M004.wav",
+    "length": 2.4499375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M010.wav",
+    "length": 2.56,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M011.wav",
+    "length": 1.3325,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M012.wav",
+    "length": 1.822375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M013.wav",
+    "length": 5.6499375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M014.wav",
+    "length": 2.31,
+    "emo": "sad"
+  },
+  "Ses01M_script03_1_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M016.wav",
+    "length": 6.0526875,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M017.wav",
+    "length": 3.68,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M019.wav",
+    "length": 6.3556875,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M021.wav",
+    "length": 2.73,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M022.wav",
+    "length": 2.5899375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M028.wav",
+    "length": 14.306625,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M029.wav",
+    "length": 3.3744375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M030.wav",
+    "length": 3.62,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M031.wav",
+    "length": 8.91,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M033.wav",
+    "length": 3.3,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M037.wav",
+    "length": 9.3899375,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M039.wav",
+    "length": 4.33,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M040.wav",
+    "length": 2.85,
+    "emo": "hap"
+  },
+  "Ses01M_script03_1_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M041.wav",
+    "length": 2.4399375,
+    "emo": "hap"
+  },
+  "Ses01F_impro06_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M000.wav",
+    "length": 3.28,
+    "emo": "sad"
+  },
+  "Ses01F_impro06_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M001.wav",
+    "length": 6.4199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M002.wav",
+    "length": 1.4399375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M003.wav",
+    "length": 6.05,
+    "emo": "sad"
+  },
+  "Ses01F_impro06_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M004.wav",
+    "length": 1.3199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M005.wav",
+    "length": 1.67,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M006.wav",
+    "length": 1.49,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M007.wav",
+    "length": 1.72,
+    "emo": "sad"
+  },
+  "Ses01F_impro06_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M008.wav",
+    "length": 2.09,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M009.wav",
+    "length": 1.3499375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M010.wav",
+    "length": 1.5899375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M011.wav",
+    "length": 3.31,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M012.wav",
+    "length": 2.49,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M013.wav",
+    "length": 2.7599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M014.wav",
+    "length": 1.3,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M015.wav",
+    "length": 1.9599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro06_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro06/Ses01F_impro06_M016.wav",
+    "length": 3.1849375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M001.wav",
+    "length": 6.4524375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M002.wav",
+    "length": 4.3799375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M004.wav",
+    "length": 4.23,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M007.wav",
+    "length": 2.5993125,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M010.wav",
+    "length": 2.6899375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M011.wav",
+    "length": 3.5364375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M014.wav",
+    "length": 2.25,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M016.wav",
+    "length": 3.3499375,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M018.wav",
+    "length": 2.9820625,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M019.wav",
+    "length": 1.37,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M020.wav",
+    "length": 5.09,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M021.wav",
+    "length": 3.1920625,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M022.wav",
+    "length": 7.28,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M023.wav",
+    "length": 3.72,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M024.wav",
+    "length": 12.75,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M025.wav",
+    "length": 4.49,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M026.wav",
+    "length": 9.139375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M027.wav",
+    "length": 14.8399375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M029.wav",
+    "length": 5.077625,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M030.wav",
+    "length": 2.32575,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M031.wav",
+    "length": 4.2596875,
+    "emo": "neu"
+  },
+  "Ses01F_script03_2_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M032.wav",
+    "length": 2.9493125,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M033.wav",
+    "length": 5.6708125,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M034.wav",
+    "length": 3.1775,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M035.wav",
+    "length": 2.3425,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M036.wav",
+    "length": 4.2675,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M037.wav",
+    "length": 8.9725,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M038.wav",
+    "length": 2.0674375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M039.wav",
+    "length": 1.4949375,
+    "emo": "ang"
+  },
+  "Ses01F_script03_2_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M040.wav",
+    "length": 16.0,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M012.wav",
+    "length": 3.365,
+    "emo": "neu"
+  },
+  "Ses01M_script03_2_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M013.wav",
+    "length": 6.2025,
+    "emo": "neu"
+  },
+  "Ses01M_script03_2_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M018.wav",
+    "length": 2.7820625,
+    "emo": "neu"
+  },
+  "Ses01M_script03_2_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M022.wav",
+    "length": 6.5236875,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M023.wav",
+    "length": 5.148375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M024.wav",
+    "length": 5.6499375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M025.wav",
+    "length": 3.742125,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M026.wav",
+    "length": 3.92,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M027.wav",
+    "length": 6.66,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M028.wav",
+    "length": 2.8199375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M029.wav",
+    "length": 9.2275,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M030.wav",
+    "length": 12.4624375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M031.wav",
+    "length": 3.3499375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M032.wav",
+    "length": 5.824875,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M033.wav",
+    "length": 2.5525,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M034.wav",
+    "length": 3.1674375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M035.wav",
+    "length": 2.9975,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M036.wav",
+    "length": 3.8399375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M037.wav",
+    "length": 3.555,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M038.wav",
+    "length": 2.085,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M039.wav",
+    "length": 2.1599375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M040.wav",
+    "length": 7.5799375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M041.wav",
+    "length": 2.2899375,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M042": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M042.wav",
+    "length": 1.72,
+    "emo": "ang"
+  },
+  "Ses01M_script03_2_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M043.wav",
+    "length": 14.25,
+    "emo": "ang"
+  },
+  "Ses01M_script02_1_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M000.wav",
+    "length": 5.1511875,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M001.wav",
+    "length": 12.0024375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M002.wav",
+    "length": 4.9275,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M004.wav",
+    "length": 9.9218125,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M005.wav",
+    "length": 10.7425,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M007.wav",
+    "length": 4.1975,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M009.wav",
+    "length": 1.87,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M010.wav",
+    "length": 6.8399375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M011.wav",
+    "length": 5.201125,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M014.wav",
+    "length": 17.4199375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M016.wav",
+    "length": 3.5199375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M017.wav",
+    "length": 4.4199375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M022.wav",
+    "length": 1.6875,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M023.wav",
+    "length": 2.8525,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M028.wav",
+    "length": 9.802375,
+    "emo": "ang"
+  },
+  "Ses01M_script02_1_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M030.wav",
+    "length": 1.6,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M031.wav",
+    "length": 15.73,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M032.wav",
+    "length": 8.0825,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M037.wav",
+    "length": 2.23325,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M039.wav",
+    "length": 11.868,
+    "emo": "neu"
+  },
+  "Ses01M_script02_1_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M040.wav",
+    "length": 8.15925,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M041.wav",
+    "length": 8.845,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M042": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M042.wav",
+    "length": 11.2039375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M043.wav",
+    "length": 8.3974375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M044": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M044.wav",
+    "length": 7.6524375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M045": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M045.wav",
+    "length": 7.6899375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_1_M046": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_1/Ses01M_script02_1_M046.wav",
+    "length": 8.1975,
+    "emo": "hap"
+  },
+  "Ses01M_impro02_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M000.wav",
+    "length": 3.30175,
+    "emo": "neu"
+  },
+  "Ses01M_impro02_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M001.wav",
+    "length": 3.7599375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M002.wav",
+    "length": 4.3,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M003.wav",
+    "length": 2.7149375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M007.wav",
+    "length": 8.5199375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M009.wav",
+    "length": 2.9225,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M010.wav",
+    "length": 2.68,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M011.wav",
+    "length": 4.1899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M012.wav",
+    "length": 1.8299375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M013.wav",
+    "length": 4.425,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M014.wav",
+    "length": 8.34,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M015.wav",
+    "length": 2.2824375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M016.wav",
+    "length": 4.3899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M017.wav",
+    "length": 6.68,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M018.wav",
+    "length": 3.1899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M019.wav",
+    "length": 3.5199375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M020.wav",
+    "length": 2.0799375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M021.wav",
+    "length": 3.7599375,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M022.wav",
+    "length": 2.07,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M023.wav",
+    "length": 5.31,
+    "emo": "sad"
+  },
+  "Ses01M_impro02_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro02/Ses01M_impro02_M025.wav",
+    "length": 2.4499375,
+    "emo": "sad"
+  },
+  "Ses01F_impro01_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro01/Ses01F_impro01_M011.wav",
+    "length": 7.2399375,
+    "emo": "ang"
+  },
+  "Ses01F_impro01_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro01/Ses01F_impro01_M013.wav",
+    "length": 6.0299375,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M003.wav",
+    "length": 2.4799375,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M010.wav",
+    "length": 2.2199375,
+    "emo": "neu"
+  },
+  "Ses01M_impro01_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M020.wav",
+    "length": 3.62,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M025.wav",
+    "length": 3.3449375,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M030.wav",
+    "length": 1.1199375,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M031.wav",
+    "length": 2.67,
+    "emo": "ang"
+  },
+  "Ses01M_impro01_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_M032.wav",
+    "length": 5.5099375,
+    "emo": "ang"
+  },
+  "Ses01F_script01_2_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_2/Ses01F_script01_2_M001.wav",
+    "length": 5.0299375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_2_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_2/Ses01F_script01_2_M004.wav",
+    "length": 2.8,
+    "emo": "neu"
+  },
+  "Ses01F_script01_2_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_2/Ses01F_script01_2_M008.wav",
+    "length": 2.2099375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_2_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_2/Ses01F_script01_2_M017.wav",
+    "length": 6.5899375,
+    "emo": "ang"
+  },
+  "Ses01F_script01_1_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M000.wav",
+    "length": 3.132625,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M001.wav",
+    "length": 3.3505625,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M002.wav",
+    "length": 11.1970625,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M003.wav",
+    "length": 1.87,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M004.wav",
+    "length": 2.68,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M007.wav",
+    "length": 8.795375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M010.wav",
+    "length": 2.62,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M012.wav",
+    "length": 3.8299375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M014.wav",
+    "length": 1.983875,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M015.wav",
+    "length": 3.3505625,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M016.wav",
+    "length": 2.4225625,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M017.wav",
+    "length": 2.9366875,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M019.wav",
+    "length": 10.25,
+    "emo": "ang"
+  },
+  "Ses01F_script01_1_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M023.wav",
+    "length": 2.291375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M024.wav",
+    "length": 9.7535,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M025.wav",
+    "length": 4.561875,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M034.wav",
+    "length": 5.653375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M039.wav",
+    "length": 2.61,
+    "emo": "neu"
+  },
+  "Ses01F_script01_1_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M040.wav",
+    "length": 3.3799375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M000.wav",
+    "length": 3.32125,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M002.wav",
+    "length": 6.135,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M003.wav",
+    "length": 6.34,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M004.wav",
+    "length": 4.97,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M005.wav",
+    "length": 5.1199375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M006.wav",
+    "length": 2.0063125,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M007.wav",
+    "length": 2.9259375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M017.wav",
+    "length": 3.68,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M020.wav",
+    "length": 12.428875,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M021.wav",
+    "length": 3.05,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M023.wav",
+    "length": 2.3499375,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M024.wav",
+    "length": 3.614625,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M034.wav",
+    "length": 4.3,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M035.wav",
+    "length": 11.1899375,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M037.wav",
+    "length": 2.9499375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_1_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M038.wav",
+    "length": 2.6799375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M040.wav",
+    "length": 2.1525,
+    "emo": "sad"
+  },
+  "Ses01M_script01_1_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M041.wav",
+    "length": 2.6499375,
+    "emo": "ang"
+  },
+  "Ses01M_script01_1_M042": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_1/Ses01M_script01_1_M042.wav",
+    "length": 4.6890625,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M000.wav",
+    "length": 4.5799375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_3_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M001.wav",
+    "length": 2.80475,
+    "emo": "neu"
+  },
+  "Ses01F_script01_3_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M003.wav",
+    "length": 2.3199375,
+    "emo": "neu"
+  },
+  "Ses01F_script01_3_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M004.wav",
+    "length": 2.3,
+    "emo": "neu"
+  },
+  "Ses01F_script01_3_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M005.wav",
+    "length": 9.28,
+    "emo": "neu"
+  },
+  "Ses01F_script01_3_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M008.wav",
+    "length": 7.5099375,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M009.wav",
+    "length": 8.44825,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M010.wav",
+    "length": 11.257125,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M015.wav",
+    "length": 2.9599375,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M016.wav",
+    "length": 1.8799375,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M017.wav",
+    "length": 2.0625,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M019.wav",
+    "length": 5.6375,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M020.wav",
+    "length": 2.3,
+    "emo": "hap"
+  },
+  "Ses01F_script01_3_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M021.wav",
+    "length": 3.56,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M022.wav",
+    "length": 2.8199375,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M023.wav",
+    "length": 7.5751875,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M024.wav",
+    "length": 3.6899375,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M025.wav",
+    "length": 8.23,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M026.wav",
+    "length": 3.211625,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M027.wav",
+    "length": 2.2275,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M028.wav",
+    "length": 11.062375,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M029.wav",
+    "length": 20.85,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M030.wav",
+    "length": 15.214875,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M032.wav",
+    "length": 13.3199375,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M033.wav",
+    "length": 18.0983125,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M036.wav",
+    "length": 10.68,
+    "emo": "sad"
+  },
+  "Ses01F_script01_3_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_3/Ses01F_script01_3_M037.wav",
+    "length": 3.05975,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M002.wav",
+    "length": 3.0399375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M007.wav",
+    "length": 3.5299375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M008.wav",
+    "length": 1.55,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M009.wav",
+    "length": 1.72,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M010.wav",
+    "length": 1.1299375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M011.wav",
+    "length": 6.7215625,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M013.wav",
+    "length": 3.98725,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M014.wav",
+    "length": 10.4878125,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M015.wav",
+    "length": 6.7015,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M016.wav",
+    "length": 5.7599375,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M020.wav",
+    "length": 1.8899375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M021.wav",
+    "length": 2.2099375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M023.wav",
+    "length": 1.93,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M024.wav",
+    "length": 12.86,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M025.wav",
+    "length": 13.09225,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M026.wav",
+    "length": 5.1524375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M029.wav",
+    "length": 7.3775,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M031.wav",
+    "length": 7.0099375,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M032.wav",
+    "length": 6.6575,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M033.wav",
+    "length": 2.27,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M034.wav",
+    "length": 5.54,
+    "emo": "neu"
+  },
+  "Ses01F_script02_1_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M035.wav",
+    "length": 7.324,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M036.wav",
+    "length": 8.2725,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M038.wav",
+    "length": 14.6225,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M040.wav",
+    "length": 7.4148125,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M043.wav",
+    "length": 2.939,
+    "emo": "hap"
+  },
+  "Ses01F_script02_1_M044": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_M044.wav",
+    "length": 3.6883125,
+    "emo": "hap"
+  },
+  "Ses01M_impro04_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M014.wav",
+    "length": 1.28,
+    "emo": "ang"
+  },
+  "Ses01M_impro04_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M018.wav",
+    "length": 7.74,
+    "emo": "ang"
+  },
+  "Ses01M_impro04_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M023.wav",
+    "length": 6.303,
+    "emo": "ang"
+  },
+  "Ses01M_impro04_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M025.wav",
+    "length": 1.5274375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M000.wav",
+    "length": 3.9156875,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M001.wav",
+    "length": 1.67,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M002.wav",
+    "length": 3.2599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M003.wav",
+    "length": 1.8,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M004.wav",
+    "length": 4.6424375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M005.wav",
+    "length": 3.34,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M006.wav",
+    "length": 3.0359375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M007.wav",
+    "length": 1.1899375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M008.wav",
+    "length": 1.1199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M009.wav",
+    "length": 2.6744375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M010.wav",
+    "length": 1.75,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M011.wav",
+    "length": 3.8,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M012.wav",
+    "length": 2.346375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M013.wav",
+    "length": 3.4026875,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M014.wav",
+    "length": 7.6664375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M015.wav",
+    "length": 6.8999375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M016.wav",
+    "length": 2.985,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M017.wav",
+    "length": 2.81,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M018.wav",
+    "length": 6.0649375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M019.wav",
+    "length": 1.31,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M020.wav",
+    "length": 1.92,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M021.wav",
+    "length": 9.73,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M022.wav",
+    "length": 2.3005,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M023.wav",
+    "length": 4.5974375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M024.wav",
+    "length": 2.1899375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M025.wav",
+    "length": 3.2,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M026.wav",
+    "length": 2.4,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M027.wav",
+    "length": 2.6625,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M028.wav",
+    "length": 1.2399375,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M031.wav",
+    "length": 2.8616875,
+    "emo": "neu"
+  },
+  "Ses01F_impro04_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_M032.wav",
+    "length": 2.72,
+    "emo": "neu"
+  },
+  "Ses01F_impro02_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M001.wav",
+    "length": 5.7958125,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M005.wav",
+    "length": 4.9499375,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M009.wav",
+    "length": 3.6725,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M010.wav",
+    "length": 4.2194375,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M011.wav",
+    "length": 3.2199375,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M012.wav",
+    "length": 4.6800625,
+    "emo": "neu"
+  },
+  "Ses01F_impro02_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M013.wav",
+    "length": 4.73,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M014.wav",
+    "length": 4.615,
+    "emo": "sad"
+  },
+  "Ses01F_impro02_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M015.wav",
+    "length": 1.25,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M000.wav",
+    "length": 1.81,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M001.wav",
+    "length": 4.4275,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M002.wav",
+    "length": 5.17,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M003.wav",
+    "length": 7.3799375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M004.wav",
+    "length": 7.8949375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M005.wav",
+    "length": 5.8274375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M006.wav",
+    "length": 5.7024375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M007.wav",
+    "length": 9.1199375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M008.wav",
+    "length": 2.6125,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M009.wav",
+    "length": 6.3075,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M012.wav",
+    "length": 4.4449375,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M013.wav",
+    "length": 3.0625,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M014.wav",
+    "length": 5.0799375,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M015.wav",
+    "length": 10.5525,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M017.wav",
+    "length": 3.570625,
+    "emo": "hap"
+  },
+  "Ses01F_impro07_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M018.wav",
+    "length": 4.7824375,
+    "emo": "neu"
+  },
+  "Ses01F_impro07_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M019.wav",
+    "length": 13.145,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M005.wav",
+    "length": 2.66,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M007.wav",
+    "length": 6.275,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M008.wav",
+    "length": 5.2641875,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M009.wav",
+    "length": 2.05,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M010.wav",
+    "length": 8.0599375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M013.wav",
+    "length": 10.198,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M018.wav",
+    "length": 2.4476875,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M021.wav",
+    "length": 3.9924375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M024.wav",
+    "length": 12.5849375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M025.wav",
+    "length": 7.5799375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M026.wav",
+    "length": 16.6299375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M034.wav",
+    "length": 4.27,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M036.wav",
+    "length": 5.1824375,
+    "emo": "hap"
+  },
+  "Ses01F_script03_1_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_M037.wav",
+    "length": 5.0525,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M000.wav",
+    "length": 1.5799375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M001.wav",
+    "length": 1.23,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M002.wav",
+    "length": 1.1099375,
+    "emo": "hap"
+  },
+  "Ses01F_impro05_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M003.wav",
+    "length": 1.4799375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M004.wav",
+    "length": 1.5199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M005.wav",
+    "length": 4.0599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M006.wav",
+    "length": 1.737125,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M007.wav",
+    "length": 5.8525,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M008.wav",
+    "length": 1.8199375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M009.wav",
+    "length": 5.85,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M010.wav",
+    "length": 6.1099375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M011.wav",
+    "length": 20.2899375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M012.wav",
+    "length": 2.7599375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M013.wav",
+    "length": 1.4399375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M014.wav",
+    "length": 1.4499375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M015.wav",
+    "length": 3.0225,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M016.wav",
+    "length": 8.2374375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M017.wav",
+    "length": 6.395,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M019.wav",
+    "length": 1.5299375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M020.wav",
+    "length": 1.33,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M022.wav",
+    "length": 2.23,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M023.wav",
+    "length": 7.31,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M024.wav",
+    "length": 6.31,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M025.wav",
+    "length": 1.3749375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M026.wav",
+    "length": 5.7475,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M027.wav",
+    "length": 1.7099375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M028.wav",
+    "length": 3.74,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M029.wav",
+    "length": 6.4799375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M030.wav",
+    "length": 4.5299375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M031.wav",
+    "length": 2.28,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M034.wav",
+    "length": 6.5099375,
+    "emo": "neu"
+  },
+  "Ses01F_impro05_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro05/Ses01F_impro05_M035.wav",
+    "length": 6.31,
+    "emo": "neu"
+  },
+  "Ses01M_impro06_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M000.wav",
+    "length": 4.0466875,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M001.wav",
+    "length": 3.709125,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M002.wav",
+    "length": 4.3018125,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M003.wav",
+    "length": 3.6,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M004.wav",
+    "length": 3.8899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M005.wav",
+    "length": 3.4625,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M006.wav",
+    "length": 15.5799375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M007.wav",
+    "length": 4.0,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M008.wav",
+    "length": 4.2680625,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M009.wav",
+    "length": 3.3705,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M010.wav",
+    "length": 3.481375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M011.wav",
+    "length": 6.595,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M012.wav",
+    "length": 1.457125,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M013.wav",
+    "length": 5.1324375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M014.wav",
+    "length": 3.3199375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M015.wav",
+    "length": 5.0199375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M016.wav",
+    "length": 2.2624375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M017.wav",
+    "length": 23.74,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M018.wav",
+    "length": 3.8799375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M019.wav",
+    "length": 2.85,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M020.wav",
+    "length": 1.3899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M021.wav",
+    "length": 2.1299375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M022.wav",
+    "length": 3.0523125,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M023.wav",
+    "length": 2.952625,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M024.wav",
+    "length": 4.3799375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M025.wav",
+    "length": 1.34,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M026.wav",
+    "length": 2.922125,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M027.wav",
+    "length": 2.0099375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M028.wav",
+    "length": 4.35925,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M029.wav",
+    "length": 2.1899375,
+    "emo": "sad"
+  },
+  "Ses01M_impro06_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro06/Ses01M_impro06_M030.wav",
+    "length": 6.72,
+    "emo": "sad"
+  },
+  "Ses01M_impro03_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M000.wav",
+    "length": 2.6399375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M001.wav",
+    "length": 5.2599375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M003.wav",
+    "length": 3.61,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M004.wav",
+    "length": 9.2599375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M005.wav",
+    "length": 4.1899375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M006.wav",
+    "length": 7.4625,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M007.wav",
+    "length": 8.0825,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M008.wav",
+    "length": 15.0675,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M010.wav",
+    "length": 2.68,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M011.wav",
+    "length": 2.2899375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M012": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M012.wav",
+    "length": 1.72,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M013.wav",
+    "length": 2.1525,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M014.wav",
+    "length": 3.54,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M015.wav",
+    "length": 2.1,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M016.wav",
+    "length": 3.93,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M017.wav",
+    "length": 11.33,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M018.wav",
+    "length": 2.05,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M019.wav",
+    "length": 3.7799375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M020.wav",
+    "length": 3.31,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M021.wav",
+    "length": 8.6875,
+    "emo": "neu"
+  },
+  "Ses01M_impro03_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M022.wav",
+    "length": 9.7799375,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M023.wav",
+    "length": 4.54,
+    "emo": "hap"
+  },
+  "Ses01M_impro03_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M024.wav",
+    "length": 1.46,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M001.wav",
+    "length": 8.30475,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M002.wav",
+    "length": 5.26125,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M003.wav",
+    "length": 4.23,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M008.wav",
+    "length": 5.09,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M013.wav",
+    "length": 2.4199375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M019.wav",
+    "length": 8.4325,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M020.wav",
+    "length": 9.8325,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M021.wav",
+    "length": 4.7124375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M022.wav",
+    "length": 3.466125,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M023.wav",
+    "length": 13.865,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M025.wav",
+    "length": 4.307375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M027.wav",
+    "length": 2.81,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M028.wav",
+    "length": 2.8941875,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M029.wav",
+    "length": 4.4619375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M030.wav",
+    "length": 4.502125,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M033.wav",
+    "length": 6.7599375,
+    "emo": "ang"
+  },
+  "Ses01M_script02_2_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M035.wav",
+    "length": 14.2841875,
+    "emo": "ang"
+  },
+  "Ses01M_script02_2_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M037.wav",
+    "length": 14.855,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M038.wav",
+    "length": 7.143875,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M039.wav",
+    "length": 1.385,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M040.wav",
+    "length": 1.6549375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M041.wav",
+    "length": 3.0069375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M042": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M042.wav",
+    "length": 3.3685625,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M043.wav",
+    "length": 4.332625,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M044": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M044.wav",
+    "length": 6.7099375,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M045": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M045.wav",
+    "length": 1.8801875,
+    "emo": "sad"
+  },
+  "Ses01M_script02_2_M049": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M049.wav",
+    "length": 3.5074375,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M050": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M050.wav",
+    "length": 2.1624375,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M051": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M051.wav",
+    "length": 4.693875,
+    "emo": "neu"
+  },
+  "Ses01M_script02_2_M052": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M052.wav",
+    "length": 2.764,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M053": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M053.wav",
+    "length": 6.2708125,
+    "emo": "hap"
+  },
+  "Ses01M_script02_2_M054": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_M054.wav",
+    "length": 2.69325,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M000.wav",
+    "length": 3.2685625,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M001.wav",
+    "length": 2.485,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M002.wav",
+    "length": 2.8699375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M004.wav",
+    "length": 2.2109375,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M006.wav",
+    "length": 1.707125,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M007.wav",
+    "length": 2.658,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M009.wav",
+    "length": 8.236125,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M014": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M014.wav",
+    "length": 2.2618125,
+    "emo": "neu"
+  },
+  "Ses01M_script01_3_M016": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M016.wav",
+    "length": 2.74,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M018.wav",
+    "length": 4.86,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M019.wav",
+    "length": 2.86,
+    "emo": "hap"
+  },
+  "Ses01M_script01_3_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M020.wav",
+    "length": 3.9499375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M021.wav",
+    "length": 3.8899375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M022.wav",
+    "length": 8.7799375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M023.wav",
+    "length": 2.985875,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M024.wav",
+    "length": 4.6189375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M025.wav",
+    "length": 5.523625,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M026.wav",
+    "length": 2.7699375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M027.wav",
+    "length": 2.85,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M028.wav",
+    "length": 13.85075,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M029": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M029.wav",
+    "length": 12.2925,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M030.wav",
+    "length": 6.3825,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M031.wav",
+    "length": 10.49,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M032.wav",
+    "length": 23.8589375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M033.wav",
+    "length": 9.455,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M034": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M034.wav",
+    "length": 14.25,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M035": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M035.wav",
+    "length": 8.0061875,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M036": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M036.wav",
+    "length": 8.3401875,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M037": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M037.wav",
+    "length": 8.0599375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M038": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M038.wav",
+    "length": 13.4699375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M039": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M039.wav",
+    "length": 8.0291875,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M040": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M040.wav",
+    "length": 10.43,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M041": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M041.wav",
+    "length": 3.4499375,
+    "emo": "sad"
+  },
+  "Ses01M_script01_3_M043": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script01_3/Ses01M_script01_3_M043.wav",
+    "length": 3.6911875,
+    "emo": "hap"
+  },
+  "Ses01M_impro05_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M004.wav",
+    "length": 4.8876875,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M005.wav",
+    "length": 3.05,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M006.wav",
+    "length": 2.8199375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M007.wav",
+    "length": 3.7549375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M008.wav",
+    "length": 3.185,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M015": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M015.wav",
+    "length": 2.07,
+    "emo": "neu"
+  },
+  "Ses01M_impro05_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M020.wav",
+    "length": 2.501125,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M021": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M021.wav",
+    "length": 5.85,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M022": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M022.wav",
+    "length": 5.8299375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M023": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M023.wav",
+    "length": 6.5099375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M024.wav",
+    "length": 3.5,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M025": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M025.wav",
+    "length": 6.99,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M026.wav",
+    "length": 6.72,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M027": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M027.wav",
+    "length": 6.1825,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M028": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M028.wav",
+    "length": 5.3249375,
+    "emo": "ang"
+  },
+  "Ses01M_impro05_M031": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro05/Ses01M_impro05_M031.wav",
+    "length": 2.4275,
+    "emo": "ang"
+  },
+  "Ses01M_impro07_M000": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M000.wav",
+    "length": 5.2988125,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M001": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M001.wav",
+    "length": 6.5299375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M002": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M002.wav",
+    "length": 5.1299375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M003": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M003.wav",
+    "length": 13.46,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M004": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M004.wav",
+    "length": 3.8999375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M005": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M005.wav",
+    "length": 9.5,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M006": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M006.wav",
+    "length": 4.1299375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M007": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M007.wav",
+    "length": 1.68,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M008": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M008.wav",
+    "length": 4.8199375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M009": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M009.wav",
+    "length": 1.97,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M010": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M010.wav",
+    "length": 12.501625,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M011": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M011.wav",
+    "length": 3.1375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M013": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M013.wav",
+    "length": 11.6899375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M017": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M017.wav",
+    "length": 2.67,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M018": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M018.wav",
+    "length": 5.705,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M019": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M019.wav",
+    "length": 1.34,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M020": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M020.wav",
+    "length": 3.86,
+    "emo": "neu"
+  },
+  "Ses01M_impro07_M024": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M024.wav",
+    "length": 4.46,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M026": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M026.wav",
+    "length": 2.9024375,
+    "emo": "neu"
+  },
+  "Ses01M_impro07_M030": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M030.wav",
+    "length": 2.0299375,
+    "emo": "neu"
+  },
+  "Ses01M_impro07_M032": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M032.wav",
+    "length": 3.4799375,
+    "emo": "hap"
+  },
+  "Ses01M_impro07_M033": {
+    "wav": "/home/nl438/rds/hpc-work/PROJECT/data/IEMOCAP_full_release_withoutVideos/IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro07/Ses01M_impro07_M033.wav",
+    "length": 1.79,
+    "emo": "hap"
+  }
+}
